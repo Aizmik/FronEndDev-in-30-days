@@ -1,0 +1,30 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content {
+    background-color: khaki;
+}
+
+.menu {
+    background-color: chocolate;
+}
+
+.menuitem{
+    display: inline;
+}
+a {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.tributeimg{
+    font-weight: bold;
+    float:right;
+    text-align: center;
+
+    
+}
+
+
