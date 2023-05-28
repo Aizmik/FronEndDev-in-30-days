@@ -18,7 +18,8 @@ I'll formulate the challenge a little bit later; I now have responsibilities to 
 
 Today I finally completed copying the website, suddenly recognizing that the "Tribute Page" is a page about someone who is dead. Sorry, doggie, I thought you were alive and still slaying, but rip Mollie.
 
-![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/5e09048c-5ca6-4936-a173-bc629e13c80d)
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/df2ca4d1-58c3-4a40-81ac-a9c483b1bc18)
+
 
 
 
