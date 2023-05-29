@@ -24,3 +24,14 @@ Today I finally completed copying the website, suddenly recognizing that the "Tr
 
 
 Also, this is the first day where I actually watched a software development YouTube video for fun. Hello? Something is definitely wrong here.
+
+
+
+## Day 5 
+
+Whoah, I'm up for a little bit of challenge - because just in 25 days I would have to send out resumes, but my skills are stallig for now. Today we'll be recreating the traackr website. 
+
+___ 
+(I almoust forgot to commit, what a dummy)
+___
+Spent a good 2 hours setting up personal VPN and registering on twihter (probably a mistake, but I want to document my process there too so I could grasp a little bit of clout which will help me find a job)
