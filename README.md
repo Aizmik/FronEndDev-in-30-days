@@ -44,3 +44,7 @@ I have two problems:
 Usually I spend 30% of the scheduled time for software development just looking up something cool, which is __VERY__ uncool
 
 Plan: Finish copying the "landing" version of this website. 
+
+
+Whoah, who knew that I would need JS for this sliding menu joke.
+Going to take a break (actually work rn) because after 3 hours brain turns into a mush (not that I was studying the whole time, but you know, you know)
