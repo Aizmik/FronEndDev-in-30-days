@@ -35,3 +35,12 @@ ___
 (I almoust forgot to commit, what a dummy)
 ___
 Spent a good 2 hours setting up personal VPN and registering on twihter (probably a mistake, but I want to document my process there too so I could grasp a little bit of clout which will help me find a job)
+
+## Day 6 
+I have two problems: 
+* Low attention span
+* Limited time 
+
+Usually I spend 30% of the scheduled time for software development just looking up something cool, which is __VERY__ uncool
+
+Plan: Finish copying the "landing" version of this website. 
