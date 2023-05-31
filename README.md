@@ -48,3 +48,17 @@ Plan: Finish copying the "landing" version of this website.
 
 Whoah, who knew that I would need JS for this sliding menu joke.
 Going to take a break (actually work rn) because after 3 hours brain turns into a mush (not that I was studying the whole time, but you know, you know)
+
+
+## Day 7 
+
+So yesterday I not only recreated the navigation menu, I would say there was an improvement. Today the plan is simple - Do a little bit of JS and make it appear on a button click and fininsh the rest. 
+
+___
+Real talk thought, I REALLY love this challenge, coding again gives me an incredible feeling, I literally looking forward to it and wish that I would code a little bit more instead of editing : ) 
+
+Thought I would have to take a break because the annual potato planting trip is on the way - so let's fininsh this website now!
+___
+
+
+
