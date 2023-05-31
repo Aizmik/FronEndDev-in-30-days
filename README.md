@@ -60,5 +60,28 @@ Real talk thought, I REALLY love this challenge, coding again gives me an incred
 Thought I would have to take a break because the annual potato planting trip is on the way - so let's fininsh this website now!
 ___
 
+One day I will stop overestimating my powers. 
 
+But not today, bich 
+
+As you could see I've spent too much time trying to make the dawg say allways on screen and though that 
+
+```
+display: sticky;
+top: 101px;
+```
+
+
+### BUT TURNS OUT IT DID NOT.
+
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/3d6addd0-9c80-4252-b2b0-9297edc65fa2)
+
+
+Anyway did a cool animation and menu:
+
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/be755fb2-1163-41d9-9e53-78f0161bb86b)
+
+See ya in 4 days, right? 
+
+Yep 
 
