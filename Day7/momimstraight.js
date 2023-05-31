@@ -1,6 +1,6 @@
 // have no idea what i'm doing but i have no idea how to do it with html and css so let's go 
 
-const expander = document.querySelector(".expand-menu")
+const expander = document.querySelector(".adidas-menu")
 const dropdownMenu = document.querySelector(".dropdown-menu");
 
 expander.addEventListener("click", () => {
