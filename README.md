@@ -85,3 +85,17 @@ See ya in 4 days, right?
 
 Yep 
 
+
+## Day 8 
+
+Damn who would thing that I would be kidnapped and work on this potato field for 3 weeks straight.
+
+But here's a photo of me working hard: 
+
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/24caef27-8cc9-474f-8d9d-d6a8bd45c072)
+
+
+(I wan't hard)
+
+### The plan (it's simple)
+Anyway today we're finally fininshig the website, also we should start training the JS shit, finishing it at the evening - firsly soulder workout in 1 hour, priorities are set right. 
