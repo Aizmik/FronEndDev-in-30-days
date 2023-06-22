@@ -111,4 +111,8 @@ Anyway today we're finally fininshig the website, also we should start training 
 ### Alright
 Definately I keep overhyping myself. Damn. I just remembered 100 push ups are to go. Alright. With time more information comes my way, which is fantastic. It should be that way. lol. 
 
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/d6e9ffdf-50db-4710-8556-64a0188a4e50)
+
+
 Want to say don't worry but I spend such a small amount of time compared to amount of knowledge that I should recieve. anyway. bye : ) 
+
