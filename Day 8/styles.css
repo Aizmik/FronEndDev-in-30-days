@@ -79,6 +79,7 @@ a:hover {
 }
 
 .featured-content {
+    z-index: 69;
     display: flex;
     position: fixed;
     justify-content: flex-start;
@@ -153,6 +154,39 @@ button {
 h1.bright {
     color: burlywood;
 }
+
+
+.beige {
+    background-color: antiquewhite;
+}
+
+.slim {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    line-height: 40px;
+    max-height: 500px;
+    width: 100%;
+    max-width: 1170px;
+}
+
+.slim-text {
+    z-index: 13;
+    box-sizing: border-box;
+    min-height: 228px;
+    min-width: 640px;
+    max-width: 640px;
+    position: relative;
+}
+
+.slim-shady {
+    top: 0%;
+    left: 670px;
+    right: auto;
+}
+
+
+
 
 
 /* I think I should comment more */
