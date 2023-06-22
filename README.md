@@ -99,3 +99,10 @@ But here's a photo of me working hard:
 
 ### The plan (it's simple)
 Anyway today we're finally fininshig the website, also we should start training the JS shit, finishing it at the evening - firsly soulder workout in 1 hour, priorities are set right. 
+
+
+### Made the hitler-dog properly align with the website at all times. 
+(and look good too)
+
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/dc46034d-d128-44d1-9969-71d8306fa6d8)
+
