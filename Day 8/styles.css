@@ -135,8 +135,6 @@ button {
 .content-face {
     background-color:#250e62;
     display: flex;
-    padding: 10px;
-    margin: 10p
 }
 
 .promo{
@@ -156,18 +154,47 @@ h1.bright {
 }
 
 
+/* Feels like I should do that in a separate class. For sure. */
+
+/* Yep turns out I could specify more than one class in html. thanks */
+
 .beige {
     background-color: antiquewhite;
 }
 
-.slim {
+.white {
+    background-color: whitesmoke;
+}
+
+.section-padding {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.marginalized {
+    width: 100%;
+    height: auto;
+    max-width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
     display: flex;
     align-items: center;
+}
+
+
+
+
+.slim {
     font-size: 30px;
     line-height: 40px;
     max-height: 500px;
     width: 100%;
     max-width: 1170px;
+}
+
+.farquass {
+    flex-direction: column;
+    text-align: start;
 }
 
 .slim-text {
