@@ -121,3 +121,6 @@ Want to say don't worry but I spend such a small amount of time compared to amou
 ## Day 9 
 
 My code also looks bad. 100% should work on it, best practices or something like that would definately help. 
+
+
+Also do I commit everyting in one dump or in small batches? The intuition tells me pick the ladder, but I would have billions of commit. Probably should commit per section. Yep, let's try. 

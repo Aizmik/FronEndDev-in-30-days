@@ -106,9 +106,9 @@ button {
     background-color: #f9423a;
     border: 1px solid black;
     color:aliceblue;
-    border-radius: 10px;
+    border-radius: 7px;
     padding: 12px 28px;
-
+    font-size: 16px;
 }
 
 .adidas-menu, .dropdown-menu {
@@ -152,13 +152,18 @@ button {
 }
 
 h1.bright {
-    color: burlywood;
+    color: #ffcfbe;
+    font-size: 50px;
 }
 
 
 /* Feels like I should do that in a separate class. For sure. */
 
 /* Yep turns out I could specify more than one class in html. thanks */
+
+.blue {
+    padding-top: 50px;
+}
 
 .beige {
     background-color: antiquewhite;
@@ -197,6 +202,16 @@ h1.bright {
 .farquass {
     flex-direction: column;
     text-align: start;
+    align-items: baseline;
+}
+
+.farquads {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .slim-text {
