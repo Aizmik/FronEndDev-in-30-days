@@ -116,3 +116,8 @@ Definately I keep overhyping myself. Damn. I just remembered 100 push ups are to
 
 Want to say don't worry but I spend such a small amount of time compared to amount of knowledge that I should recieve. anyway. bye : ) 
 
+
+
+## Day 9 
+
+My code also looks bad. 100% should work on it, best practices or something like that would definately help. 
