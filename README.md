@@ -124,3 +124,8 @@ My code also looks bad. 100% should work on it, best practices or something like
 
 
 Also do I commit everyting in one dump or in small batches? The intuition tells me pick the ladder, but I would have billions of commit. Probably should commit per section. Yep, let's try. 
+
+
+It's starting to look good, but FASTER FASTER FASTA
+
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/a4a96c9b-8810-4328-a632-32ac30bd83af)
