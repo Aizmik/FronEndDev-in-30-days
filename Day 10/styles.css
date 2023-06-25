@@ -229,6 +229,10 @@ h1.bright {
     right: auto;
 }
 
+.chat {
+    max-width: 400px;
+}
+
 .chat-slider {
     display: flex;
 }
@@ -269,12 +273,17 @@ h1.bright {
 .slider {
     height: auto;
     padding-left: 20px;
+    width: 100%;
+    height: 100%;
 }
 
 /* it would be nice to be a good boy and get similar sized images, but this solution works */
 .slider-img {
-    width: 600px;
-    height: 400px;
+    width: 100%;
+    height: 100%;
+
+
+    
 }
 
 /* Fading animation */
