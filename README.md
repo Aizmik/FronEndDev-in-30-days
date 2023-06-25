@@ -129,3 +129,14 @@ Also do I commit everyting in one dump or in small batches? The intuition tells 
 It's starting to look good, but FASTER FASTER FASTA
 
 ![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/a4a96c9b-8810-4328-a632-32ac30bd83af)
+
+
+
+## Day 10 
+
+Today I spent like 7 hours on bullshit. My mom decided to tell me that country is going insane and my caveman brain fell into temptations. A wasted day later I regret my decision and remember why I chose to abstain from politics :( 
+
+
+(because i can't do shit)
+
+(oh also the conflict was staged or some weird shit)
