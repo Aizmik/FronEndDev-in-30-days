@@ -139,4 +139,9 @@ Today I spent like 7 hours on bullshit. My mom decided to tell me that country i
 
 (because i can't do shit)
 
-(oh also the conflict was staged or some weird shit)
+## Day 11
+
+I just made a pawn and prepared for day 12. The pawn is bussin thought. Look at how beautiful it is. 
+
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/4e3bce0e-c719-40d0-b7b6-30b6e4a1f98d)
+
