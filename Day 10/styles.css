@@ -95,7 +95,6 @@ a:hover {
     background-color: wheat;
     left: auto;
     right: -360px;
-    -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
