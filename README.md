@@ -143,5 +143,6 @@ Today I spent like 7 hours on bullshit. My mom decided to tell me that country i
 
 I just made a pawn and prepared for day 12. The pawn is bussin thought. Look at how beautiful it is. 
 
-![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/4e3bce0e-c719-40d0-b7b6-30b6e4a1f98d)
+![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/d54a0883-8e20-4b84-8912-138484376a4a)
+
 
