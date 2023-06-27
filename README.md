@@ -146,3 +146,11 @@ I just made a pawn and prepared for day 12. The pawn is bussin thought. Look at 
 ![image](https://github.com/Aizmik/FronEndDev-in-30-days/assets/37026135/d54a0883-8e20-4b84-8912-138484376a4a)
 
 
+
+
+___
+
+
+bruh, i'm honestly disguisted with myself but today is my diploma defend day so I kidna allowed myself a day off. what a bitch move tbh but anyway, good game me. Dobra Zdravy for the grade : ) 
+
+___
